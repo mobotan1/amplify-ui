@@ -1,5 +1,14 @@
 # @aws-amplify/ui-angular
 
+## 2.0.3
+
+### Patch Changes
+
+- [#858](https://github.com/aws-amplify/amplify-ui/pull/858) [`cc4a328a4`](https://github.com/aws-amplify/amplify-ui/commit/cc4a328a4f93888a968c9c51382752998549d917) Thanks [@ErikCH](https://github.com/ErikCH)! - Updated the password validation logic, so errors are only display on blur, or when six or more characters is typed for both the confirm password and password fields.
+
+- Updated dependencies [[`cc4a328a4`](https://github.com/aws-amplify/amplify-ui/commit/cc4a328a4f93888a968c9c51382752998549d917)]:
+  - @aws-amplify/ui@3.0.3
+
 ## 2.0.2
 
 ### Patch Changes

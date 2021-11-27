@@ -1,5 +1,16 @@
 # @aws-amplify/ui-react
 
+## 2.1.2
+
+### Patch Changes
+
+- [#885](https://github.com/aws-amplify/amplify-ui/pull/885) [`8d1783f8e`](https://github.com/aws-amplify/amplify-ui/commit/8d1783f8e84b7531d0a3f427408e3ebc7e83834b) Thanks [@JrPribs](https://github.com/JrPribs)! - Removes BrowserModule as Angular packages shouldn't import it
+
+* [#858](https://github.com/aws-amplify/amplify-ui/pull/858) [`cc4a328a4`](https://github.com/aws-amplify/amplify-ui/commit/cc4a328a4f93888a968c9c51382752998549d917) Thanks [@ErikCH](https://github.com/ErikCH)! - Updated the password validation logic, so errors are only display on blur, or when six or more characters is typed for both the confirm password and password fields.
+
+* Updated dependencies [[`cc4a328a4`](https://github.com/aws-amplify/amplify-ui/commit/cc4a328a4f93888a968c9c51382752998549d917)]:
+  - @aws-amplify/ui@3.0.3
+
 ## 2.1.1
 
 ### Patch Changes
